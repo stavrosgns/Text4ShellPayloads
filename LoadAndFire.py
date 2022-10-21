@@ -1,5 +1,5 @@
 """
-@Author: Stavros Gkounis (purpl3cham)
+@Author: Stavros Gkounis (purpl3ch4m)
 @Date: 21/10/2022
 @Reference: https://github.com/karthikuj/cve-2022-42889-text4shell-docker
 @Description: This code makes malicious requests to a Text4Shell vulnerable server which has been set up according to the information provided by @Reference
